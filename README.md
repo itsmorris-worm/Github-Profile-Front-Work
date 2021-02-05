@@ -60,9 +60,9 @@
 <details>
 <summary>✅ GitHub Analytics</summary>
 <p align="left">
-<a href="https://github.com/drviruses">
-  <img height="160em" src="https://github-readme-stats-git-master.drviruses.vercel.app/api?username=drviruses&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drviruses&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/itsmorris-worm">
+  <img height="160em" src="https://github-readme-stats-git-master.itsmorris-worm.vercel.app/api?username=itsmorris-worm&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorris-worm&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 
 </a>
 </p>
