@@ -11,7 +11,7 @@
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
 - 🌱 I’m currently learning ML and Deep learning.
 - 📄 Know about my experiences 
-- 📫 Reach me 
+- 📫 Reach me via [mail][here]
 - 🥅 Analysis is fun, i like to play with datasets.
 - ⚡ Learning something new everyday keeps my dopamine levels high.
 
@@ -91,6 +91,7 @@
       <img align="center" alt="GIF" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey1.gif?raw=true" width="750" height="520" />
 </p>
 
+[here]: https://gmail.com
 [github]: https://github.com/itsmorris-worm
 [hackerrank]: https://www.hackerrank.com/dr_virus
 [codeforces]: https://codeforces.com/profile/dr_virus
