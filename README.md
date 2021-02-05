@@ -1,1 +1,1 @@
-[![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front.jpg)]
+![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front.jpg)
