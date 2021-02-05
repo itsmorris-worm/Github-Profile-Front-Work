@@ -1,14 +1,14 @@
 ![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front1.jpg)
-## Hi there - I'm [Chandan Sharma][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there, I'm - [Chandan Sharma][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, a 3rd year undergrad</h2>
 
 
 ### 👨🏻‍💻 About Me
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 📈 I'm a Competitive Programmer!
-- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
-- 🔭 Currently busy in machine learning and deep learning.
+- 📈 I'm a Data Analyst and a passionate programmer who loves to transform coffee into code.
+- 💻 A 3rd year computer science undergrad at Lovely Professional University.
+- 🔭 Currently intersted in Data Science,Machine learning and Deep learning.
 - 🌱 I’m currently learning to learn.
 - 🥅 API's are fun, i like to play with twitter,youtube Apis.
 - ⚡ Learning something new everyday keps my dopamine levels high.
