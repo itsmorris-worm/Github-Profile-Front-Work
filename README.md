@@ -69,15 +69,6 @@
 </p>
 </details>
 
-<details>
-  <summary>📝 Recent Github Activity</summary>
-  <img align="center" width="200" height="150" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey2.gif?raw=true"><h2>Comming soon..</h2>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
 ---
 
 
