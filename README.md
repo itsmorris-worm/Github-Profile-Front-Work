@@ -81,14 +81,19 @@
 
 ### 🏄Connect with me
 
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmorris-worm)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11256726/itsmorris_worm)
-
-<p align="center"> 
-  <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/itsmorris-worm/count.svg" />
-  </br>
-      <img align="center" alt="GIF" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey1.gif?raw=true" width="750" height="520" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/chandan-sharma-06aa2416b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandan-sharma-06aa2416b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/itsmorrisworm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="itsmorrisworm" height="30" width="40" /></a>
+<a href="https://kaggle.com/itsmorrisworm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="itsmorrisworm" height="30" width="40" /></a>
+<a href="https://instagram.com/itsmorris.worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsmorris.worm" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsmorris-worm" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/itsmorris_worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="itsmorris_worm" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="itsmorris-worm" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsmorris_worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="itsmorris_worm" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/itsmorris_worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="itsmorris_worm" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="itsmorris-worm" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="itsmorris-worm" height="30" width="40" /></a>
 </p>
 
 [here1]: https://github.com/itsmorris-worm/itsmorris-worm/blob/main/Chandan_Sharma_CV.pdf
