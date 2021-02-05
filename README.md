@@ -64,7 +64,7 @@
   <img height="160em" src="https://github-readme-stats-git-master.itsmorris-worm.vercel.app/api?username=itsmorris-worm&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorris-worm&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
   &nbsp<img height="160em" src="https://github-readme-stats.vercel.app/api?username=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmorris-worm&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" />
 
 </a>
 </p>
