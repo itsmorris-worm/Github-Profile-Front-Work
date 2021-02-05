@@ -7,7 +7,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - 💻 A 3rd year computer science undergrad at Lovely Professional University corely involved in the field of Data Science.
-- 📈 A Passionate learner interested in competitive programming and data structures.
+- 📈 Passionately interested in competitive programming and data structures.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
 - 🌱 I’m currently learning ML and Deep learning.
 - 📄 Know about my experiences [resume][here1]
