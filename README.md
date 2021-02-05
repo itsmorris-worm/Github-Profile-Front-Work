@@ -9,11 +9,11 @@
 - 💻 A 3rd year computer science undergrad at Lovely Professional University corely involved in the field of Data Science.
 - 📈 Passionately interested in competitive programming and data structures.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
-- 🌱 I’m currently learning ML and Deep learning.
-- 📄 Know about my experiences [resume][here1]
+- 🌱 Currently learning ML and Deep learning.
+- 📄 Know about my experiences via [resume][here1]
 - 📫 Reach me via [mail][here]
-- 🥅 Data Analysis is fun, i like to play with datasets.
-- ⚡ Learning something new everyday keeps my dopamine levels high.
+- 🥅 Data Analysis is fun, I really like to play with datasets.
+- ⚡ Learning something new everyday to keep my dopamine levels high.
 
 ---
 
