@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front.jpg)
+![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front1.jpg)
 ## Welcome to my work hub - [Chandan Sharma][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
