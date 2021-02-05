@@ -77,19 +77,19 @@
 
 ---
 
-### 🏄follow me on
+### 🏄Connect with me
 
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/drviruses)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11256726/dr-virus)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmorris-worm)
+[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11256726/itsmorris_worm)
 
 <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/drviruses/count.svg" />
+  <img src="https://profile-counter.glitch.me/itsmorris-worm/count.svg" />
   </br>
       <img align="center" alt="GIF" src="https://github.com/drviruses/drviruses/blob/master/assests/monkey1.gif?raw=true" width="750" height="520" />
 </p>
 
-[github]: https://github.com/drviruses
+[github]: https://github.com/itsmorris-worm
 [hackerrank]: https://www.hackerrank.com/dr_virus
 [codeforces]: https://codeforces.com/profile/dr_virus
 [hackerearth]: https://www.hackerearth.com/@dr_virus
