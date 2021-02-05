@@ -38,7 +38,7 @@
 
 ### 🛠 Languages and Tools
 
-[![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)&nbsp;][c]
+[![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)&nbsp;][c++]
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
 [![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
