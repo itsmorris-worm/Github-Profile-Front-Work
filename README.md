@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front1.jpg)
-## Hi there, I'm - [Chandan Sharma][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, a 3rd year undergrad</h2>
+## Hi there, I'm - [Chandan Sharma][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, a 3rd year undergrad at lovely professional university.</h2>
 
 
 ### 👨🏻‍💻 About Me
