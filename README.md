@@ -50,7 +50,9 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)&nbsp;
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)&nbsp;
+
+![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)&nbsp;
 
 
 ---
