@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ML and Deep learning.
 - 📄 Know about my experiences [resume][here1]
 - 📫 Reach me via [mail][here]
-- 🥅 Analysis is fun, i like to play with datasets.
+- 🥅 Data Analysis is fun, i like to play with datasets.
 - ⚡ Learning something new everyday keeps my dopamine levels high.
 
 ---
