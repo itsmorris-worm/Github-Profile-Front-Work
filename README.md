@@ -26,7 +26,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 > "Programming isn't about what you know; it's about what you can figure out"   - Chris Pine
 
 - 💻 A 3rd year computer science undergrad at Lovely Professional University with specialization in the field of Data Science.
-- 👨‍💻 Passionately interested in Competitive Programming and Data Structure and Algorithms.
+- 👨‍💻 Passionately interested in Competitive Programming and Data Structure.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
 - 🌱 Currently learning Javascript and Machine learning.
 - 📄 Know about my experiences via [resume][here1]
