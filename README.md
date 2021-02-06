@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/profilepic.png" width="180">
+</p>
+
 ![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front1.jpg)
 ## Hi there, I'm - [Chandan Sharma][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, a boy who loves to transform coffee into code.</h2>
 
