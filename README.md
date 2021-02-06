@@ -21,7 +21,7 @@
 
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/321303280218201.gif" height="200" width="355" align="right" />
 
-I am Chandan Sharma, a self-taught programmer 👨‍💻 looking forward to becoming a Web Developer 🌐 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
+I am a self-taught programmer 👨‍💻 who is capable of transforming coffee into code.
 
 > "Programming isn't about what you know; it's about what you can figure out"   - Chris Pine
 
