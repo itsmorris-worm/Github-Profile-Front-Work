@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/profilepic.png" width="180">
+    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/propic.png" width="180">
 </p>
 
 ![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front1.jpg)
