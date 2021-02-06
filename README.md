@@ -1,20 +1,19 @@
 <p align="center">
     <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/profpic.png" width="180">
 </p>
-----
 
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/itsmorris-worm/count.svg" />
 </p>
 
-----
 <h2 align="center"> Hello < World />, I am Chandan Sharma(he/him)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 <h3 align="center"> Student Tech💻 and Competitive Programmer👨‍💻 Data Science Enthusiast💝 </h3>
 
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/programming.gif" height="320" width="1600" >
-## [Welcome][github]🤝 to my work stack folks.</h2>
 
+
+## [Welcome][github]🤝 to my work stack folks.</h2>
 
 ### 👨🏻‍💻 About Me
 
