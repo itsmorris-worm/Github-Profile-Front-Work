@@ -12,15 +12,15 @@
 <h2 align="center"> Hello < World />, I am Chandan Sharma(he/him)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 <h3 align="center"> Student Tech💻 and Competitive Programmer👨‍💻 Data Science Enthusiast💝 </h3>
 
-![MasterHead](https://github.com/itsmorris-worm/itsmorris-worm/blob/main/front1.jpg)
+<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/new.gif" height="200" width="1600" >
 ## [Welcome][github]🤝 to my work stack folks.</h2>
 
 
 ### 👨🏻‍💻 About Me
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
+
+<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/new.gif" width="200" align="right" />
 
 I am Chandan Sharma, a self-taught programmer 👨‍💻 looking forward to becoming a Web Developer 🌐 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
 
