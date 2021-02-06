@@ -12,7 +12,7 @@
 <h2 align="center"> Hello < World />, I am Chandan Sharma(he/him)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 <h3 align="center"> Student Tech💻 and Competitive Programmer👨‍💻 Data Science Enthusiast💝 </h3>
 
-<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/new.gif" height="200" width="1600" >
+<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/programming.gif" height="320" width="1600" >
 ## [Welcome][github]🤝 to my work stack folks.</h2>
 
 
