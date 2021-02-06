@@ -95,7 +95,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 
 <p align="center">
   
-  <a href="https://twitter.com/Im_CSharma" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/chandan-sharma-06aa2416b/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chandan610sharma@gmail.com" target="_blank">
+  <a href="https://twitter.com/Im_CSharma" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="40px" width="40px" alt="Twitter" align="left"> <a href="https://www.linkedin.com/in/chandan-sharma-06aa2416b/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chandan610sharma@gmail.com" target="_blank">
     <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> 
 </p>
