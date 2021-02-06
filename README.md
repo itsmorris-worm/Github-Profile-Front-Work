@@ -15,7 +15,7 @@
 
 ## [Welcome][github]🤝 to my work stack folks.</h2>
 
-### 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 
 
@@ -26,7 +26,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 > "Programming isn't about what you know; it's about what you can figure out"   - Chris Pine
 
 - 💻 A 3rd year computer science undergrad at Lovely Professional University with specialization in the field of Data Science.
-- 📈 Passionately interested in Competitive Programming and Data Structure and Algorithms.
+- 👨‍💻 Passionately interested in Competitive Programming and Data Structure and Algorithms.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
 - 🌱 Currently learning Javascript and Machine learning.
 - 📄 Know about my experiences via [resume][here1]
@@ -36,7 +36,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 
 ---
 
-### 📌Pinned Repositories
+## 📌Pinned Repositories
 
 <p align="left">
 <a href="https://github.com/drviruses/newtab">
@@ -55,7 +55,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 
 ---
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 [![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c++]
 [![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)&nbsp;][c]
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
@@ -75,6 +75,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 
 
 ---
+## 📈My Stats so far
 <details>
 <summary>📝 GitHub Analytics</summary>
 <p align="left">
@@ -91,7 +92,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 ---
 
 
-### 🏄Connect with me
+## 🏄Connect with me
 
 <p align="center">
   
