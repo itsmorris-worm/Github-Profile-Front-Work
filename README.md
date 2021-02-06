@@ -30,7 +30,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 - 💻 In the 3rd year of my Btech(CSE) at Lovely Professional University, Punjab(India) with specialization in the field of Data Science.
 - 👨‍💻 Passionately interested in Competitive Programming and Data Structure.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
-- 🌱 Currently learning Javascript and Machine learning.
+- 🌱 Involved in learning Javascript and Machine learning.
 - 📄 Know about my experiences via [resume][here1]
 - 📫 Reach me via [mail][here]
 - 🥅 Data Analysis is a real fun, I really like to play with datasets.
