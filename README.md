@@ -20,6 +20,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+<img src="Coding _Monochromatic.svg" alt="Illustration" width="600" align="right" />
+
+I am Chandan Sharma, a self-taught programmer 👨‍💻 looking forward to becoming a Web Developer 🌐 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
+
+> "Programming isn't about what you know; it's about what you can figure out" - Chris Pine
+
 - 💻 A 3rd year computer science undergrad at Lovely Professional University with specialization in the field of Data Science.
 - 📈 Passionately interested in competitive programming and data structures.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
