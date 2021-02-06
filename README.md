@@ -78,14 +78,19 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 ## 📈My Stats so far
 <details>
 <summary>📝 GitHub Analytics</summary>
-<p align="left">
+<p>
 <a href="https://github.com/itsmorris-worm">
 
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorris-worm&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-  &nbsp<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" />
+  <img align="center" height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorris-worm&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258"/> </a>
+  
+  <a href="https://github.com/itsmorris-worm">
+    
+  <img align="center" height="160em" width="600em" src="https://github-readme-stats.vercel.app/api?username=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" /> </a>
+  
+  <a href="https://github.com/itsmorris-worm">
+    
+  <img align="center" height="140em" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" /> <a/> 
 
-</a>
 </p>
 </details>
 
