@@ -19,7 +19,7 @@
 
 
 
-<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/new.gif" width="200" align="right" />
+<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/321303280218201.gif" height="200" width="600" align="right" />
 
 I am Chandan Sharma, a self-taught programmer 👨‍💻 looking forward to becoming a Web Developer 🌐 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
 
