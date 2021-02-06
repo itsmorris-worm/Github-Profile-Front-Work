@@ -120,3 +120,13 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 [html]: https://devdocs.io/html/
 
 
+## Coding is fun 🤩💝
+<img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
+
+
+### :handshake: Always happy to help!
+
+
+### :hugs: Thank You!
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/itsmorris-worm)! :v:
