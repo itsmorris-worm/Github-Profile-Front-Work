@@ -19,11 +19,11 @@
 
 
 
-<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/321303280218201.gif" height="200" width="600" align="right" />
+<img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/321303280218201.gif" height="200" width="355" align="right" />
 
 I am Chandan Sharma, a self-taught programmer 👨‍💻 looking forward to becoming a Web Developer 🌐 and UI/UX designer 🎨. I am also a SpiderMan fan! 🕷️🕸️
 
-> "Programming isn't about what you know; it's about what you can figure out" - Chris Pine
+> "Programming isn't about what you know; it's about what you can figure out"   - Chris Pine
 
 - 💻 A 3rd year computer science undergrad at Lovely Professional University with specialization in the field of Data Science.
 - 📈 Passionately interested in competitive programming and data structures.
