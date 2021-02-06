@@ -93,18 +93,11 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 
 ### 🏄Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/chandan-sharma-06aa2416b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandan-sharma-06aa2416b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/itsmorrisworm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="itsmorrisworm" height="30" width="40" /></a>
-<a href="https://kaggle.com/itsmorrisworm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="itsmorrisworm" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmorris.worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsmorris.worm" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsmorris-worm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itsmorris_worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="itsmorris_worm" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="itsmorris-worm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsmorris_worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="itsmorris_worm" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/itsmorris_worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="itsmorris_worm" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="itsmorris-worm" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/itsmorris-worm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="itsmorris-worm" height="30" width="40" /></a>
+<p align="center">
+  
+  <a href="https://twitter.com/Im_CSharma" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/chandan-sharma-06aa2416b/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="40px" width="40px" alt="Twitter" align="left"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chandan610sharma@gmail.com" target="_blank">
+    <img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a> 
 </p>
 
 [here1]: https://github.com/itsmorris-worm/itsmorris-worm/blob/main/Chandan_Sharma_CV.pdf
