@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center"> Hello < World />, I am Chandan Sharma(he/him)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
-<h3 align="center"> Student Tech💻 and Competitive Programmer👨‍💻 Data Science Enthusiast💝 </h3>
+<h3 align="center"> Student Tech💻 Competitive Programmer👨‍💻 Data Science Enthusiast💝 </h3>
 
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/programming.gif" height="320" width="1600" >
 
@@ -21,7 +21,7 @@
 
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/321303280218201.gif" height="400" width="355" align="right" />
 
-I am a self-taught programmer 👨‍💻 who is capable of transforming coffee into code.
+I am a self-taught programmer 👨‍💻 who is capable of transforming his coffee into code.
 
 > "Programming isn't about what you know; it's about what you can figure out"   - Chris Pine
 
@@ -30,7 +30,7 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming coffee 
 - 💻 In the 3rd year of my Btech(CSE) at Lovely Professional University, Punjab(India) with specialization in the field of Data Science.
 - 👨‍💻 Passionately interested in Competitive Programming and Data Structure.
 - 🔭 Currently working on 'Indian School Education Statistic' dataset. 
-- 🌱 Involved in learning Javascript and Machine learning.
+- 🌱 Wanted to involve in learning web development soon.
 - 📄 Know about my experiences via [resume][here1]
 - 📫 Reach me via [mail][here]
 - 🥅 Data Analysis is a real fun, I really like to play with datasets.
