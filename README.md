@@ -13,7 +13,7 @@
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/programming.gif" height="320" width="1600" >
 
 
-## [Welcome][github]🤝 to my work stack, folks.</h2>
+## [Welcome][github]🤝 to my work stack, Developers.</h2>
 
 ## 👨🏻‍💻 About Me
 
