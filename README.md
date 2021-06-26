@@ -42,18 +42,14 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 ## 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/itsmorris-worm/newtab">
-  <img height="130em" width = "400em" src="https://github-readme-stats.vercel.app/api/pin/?
-username=itsmorris-worm&repo=newtab&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/itsmorris-worm/Competitive-Programming">
+  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Competitive-Programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-<a href="https://github.com/drviruses/find_name_email_excel">
-  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=find_name_email_excel&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/itsmorris-worm/Operating-System">
+  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Operating-System&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-<a href="https://github.com/drviruses/Path-Visualizer">
-  <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=Path-Visualizer&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-<a href="https://github.com/drviruses/codeforcesUserProblem">
-  <img height="130em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=drviruses&repo=codeforcesUserProblem&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/itsmorris-worm/Competitive-Programming">
+  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Competitive-Programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 </p>
 
