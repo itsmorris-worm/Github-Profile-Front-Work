@@ -42,8 +42,8 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 ## 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/itsmorris-worm/Competitive-Programming">
-  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Competitive-Programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/itsmorris-worm/A-mini-magic-game">
+  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=A-mini-magic-game&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/itsmorris-worm/Operating-System">
   <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Operating-System&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
