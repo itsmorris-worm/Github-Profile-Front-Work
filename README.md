@@ -42,14 +42,20 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 ## 📌Pinned Repositories
 
 <p align="left">
+<a href="https://github.com/itsmorris-worm/Competitive-Programming">
+  <img align="left" height="140em" width ="800em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Competitive-Programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" />
+</a>
+    <a href="https://github.com/itsmorris-worm/Toll-Payment-System">
+  <img align="right" height="140em" width ="800em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Toll-Payment-System&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" />
+</a>
+<a href="https://github.com/itsmorris-worm/IPL-Data-Dashboard">
+  <img align="left" height="140em" width ="800em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=IPL-Data-Dashboard&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" />
+</a>
 <a href="https://github.com/itsmorris-worm/A-mini-magic-game">
-  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=A-mini-magic-game&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img align="right" height="140em" width ="800em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=A-mini-magic-game&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" />
 </a>
 <a href="https://github.com/itsmorris-worm/Operating-System">
-  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Operating-System&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
-</a>
-<a href="https://github.com/itsmorris-worm/Competitive-Programming">
-  <img height="130em" width ="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Competitive-Programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="140em" width ="800em" padding="10px" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmorris-worm&repo=Operating-System&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" />
 </a>
 </p>
 
@@ -132,10 +138,12 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 
 
 ## Coding is fun 🤩💝
+      
 <img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
 
 
+      
 ### :handshake: Always happy to help!
 
 
