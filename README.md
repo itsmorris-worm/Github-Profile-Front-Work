@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/pro.jpg" width="180">
+    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/pro.png" width="180">
 </p>
 
 <p align="center"> 
@@ -137,7 +137,9 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 [html]: https://devdocs.io/html/
 
 
+      
 ## Coding is fun 🤩💝
+      
       
 <img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
@@ -147,5 +149,6 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 ### :handshake: Always happy to help!
 
 
+      
 ### :hugs: Thank You!
 Thank you so much for visiting my tiny space on [GitHub](https://github.com/itsmorris-worm)! :v:
