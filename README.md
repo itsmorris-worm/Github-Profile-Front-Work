@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/proo.jpg" width="180">
+    <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/prooo.png" width="180">
 </p>
 
 <p align="center"> 
