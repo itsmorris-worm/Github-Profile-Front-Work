@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center"> Hello < World />, I am Chandan Sharma(he/him)<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
-<h3 align="center"> Student Tech💻 Competitive Programmer👨‍💻 Data Science Enthusiast💝 </h3>
+<h3 align="center"> Student Tech💻 Competitive Programmer and WebDev Enthusiast 👨‍💻 </h3>
 
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/programming.gif" height="320" width="1600" >
 
@@ -17,24 +17,20 @@
 
 ## 👨🏻‍💻 About Me
 
-
-
-
 <img src="https://github.com/itsmorris-worm/itsmorris-worm/blob/main/321303280218201.gif" height="400" width="355" align="right" />
 
-I am a self-taught programmer 👨‍💻 who is capable of transforming his coffee into code.
+I am an ardent learner and problem solver and for me :
 
-> "Programming isn't about what you know; it's about what you can figure out"   - Chris Pine
+> "Programming isn't about what you know; it's about what you can figure out"
 
 <h4> More Facts </h4>
 
-- 💻 In the 3rd year of my Btech(CSE) at Lovely Professional University, Punjab(India) with specialization in the field of Data Science.
-- 👨‍💻 Passionately interested in Competitive Programming and Data Structure.
-- 🔭 Currently working on 'Indian School Education Statistic' dataset. 
-- 🌱 Wanted to involve in learning web development soon.
+- 💻 Finalizing Bachelor of technology in Lovely Professional University, Punjab.
+- 👨‍💻 Highly organized, responsible and hardworking student. Fast Learner with early adopting personality.
+- 🔭 Currently working on my 'Codingsite' Website. 
+- 🌱 With some strong tech hobbies, I also love to do cooking, reading books and workout.
 - 📄 Know about my experiences via [resume][here1]
 - 📫 Reach me via [mail][here]
-- 🥅 Data Analysis is a real fun, I really like to play with datasets.
 - ⚡ Learning something new everyday to keep my dopamine levels high.
 
 ---
@@ -64,18 +60,18 @@ I am a self-taught programmer 👨‍💻 who is capable of transforming his cof
 ## 🛠 Languages and Tools
 [![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c++]
 [![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)&nbsp;][c]
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)&nbsp;
+<!-- [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python] -->
+<!-- ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)&nbsp; -->
 ![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)&nbsp;
 ![MS Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
+<!-- ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp; -->
+<!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp; -->
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
+<!-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp; -->
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 
 
