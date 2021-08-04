@@ -60,60 +60,70 @@ I am an ardent learner and problem solver and for me :
 ## 🛠 Languages and Tools
 [![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c++]
 [![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=A8B9CC)&nbsp;][c]
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html%2B%2B&logoColor=A8B9CC)&nbsp;][HTML]
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS%2B%2B&logoColor=A8B9CC)&nbsp;][CSS]
 <!-- [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python] -->
 <!-- ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)&nbsp; -->
-![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=MYSQL)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)&nbsp;
-![MS Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
+![MS EXCEL](https://img.shields.io/badge/-MSEXCEL-333333?style=flat&logo=MSExcel)&nbsp;
 <!-- ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp; -->
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp; -->
+[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
 <!-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp; -->
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 
-
-
 ---
+
 ## 📈My Stats so far
 <details>
+    
 <summary>📝 GitHub Analytics</summary>
 <p>
 <a href="https://github.com/itsmorris-worm">
-
-  <img align="center" height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorris-worm&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258"/> </a>
+<img align="center" height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmorris-worm&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000"/> </a>
   
-  <a href="https://github.com/itsmorris-worm">
+<a href="https://github.com/itsmorris-worm">
     
-  <img align="center" height="160em" width="600em" src="https://github-readme-stats.vercel.app/api?username=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" /> </a>
+<img align="center" height="160em" width="600em" src="https://github-readme-stats.vercel.app/api?username=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" alt="itsmorris-worm" /> </a>
   
-  <a href="https://github.com/itsmorris-worm">
+<a href="https://github.com/itsmorris-worm">
     
-  <img align="center" height="140em" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" alt="itsmorris-worm" /> <a/> 
+<img align="center" height="140em" width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmorris-worm&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=000000" alt="itsmorris-worm" /> <a/> 
 
 </p>
 </details>
 
 ---
 
-
 ## 🏄Connect with me
 
 <p align="center">
   
   <a href="https://www.linkedin.com/in/chandan-sharma-06aa2416b/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="40px" width="40px" alt="Twitter" align="left"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chandan610sharma@outlook.com" target="_blank"><img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  <a href="https://stackoverflow.com/users/16318859/itsmorris-worm" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="40px" width="40px" alt="Twitter" align="left">
-  <a href="https://www.codechef.com/users/itsmorris_worm/" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" height="40px" width="40px" alt="Twitter" align="left">
-  <a href="https://codeforces.com/profile/itsmorris_worm" target="_blank"><img src="https://carlacastanho.github.io/Material-de-APC/assets/images/codeforces_icon.png" height="40px" width="40px" alt="Twitter" align="left">
-  <a href="https://codeforces.com/profile/itsmorris_worm" target="_blank"><img src="https://dingxuewen.com/leetcode-js-leviding/leetcode.png" height="40px" width="40px" alt="Twitter" align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chandan610sharma@outlook.com" target="_blank"><img align="center" alt="Jaskeerat Singh | Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
+  <a href="https://stackoverflow.com/users/16318859/itsmorris-worm" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="40px" width="40px" alt="Twitter" align="left"></a>
+  <a href="https://www.codechef.com/users/itsmorris_worm/" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" height="40px" width="40px" alt="Twitter" align="left"></a>
+  <a href="https://codeforces.com/profile/itsmorris_worm" target="_blank"><img src="https://carlacastanho.github.io/Material-de-APC/assets/images/codeforces_icon.png" height="40px" width="40px" alt="Twitter" align="left"></a>
+  <a href="https://codeforces.com/profile/itsmorris_worm" target="_blank"><img src="https://dingxuewen.com/leetcode-js-leviding/leetcode.png" height="40px" width="40px" alt="Twitter" align="left"></a>
   <a href="https://www.instagram.com/itsmorris_worm/" target="_blank"><img src="https://www.videoamusement.com/wp-content/uploads/2018/01/Instagram-Logo.jpg" height="40px" width="40px" alt="Twitter" align="left">
-  </a> 
+  </a>
+      
 </p>
+      
+---   
+      
+## Coding is fun 🤩💝
+          
+<img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+      
+### :handshake: Always happy to help!     
+### :hugs: Thank You!
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/itsmorris-worm)! :v:
 
-[here1]: https://github.com/itsmorris-worm/itsmorris-worm/blob/main/Chandan_Sharma_CV.pdf
+[here1]: https://github.com/itsmorris-worm/itsmorris-worm/blob/main/CV11812766LPU.pdf
 [here]: https://gmail.com
 [github]: https://github.com/itsmorris-worm
 [hackerrank]: https://www.hackerrank.com/dr_virus
@@ -129,22 +139,6 @@ I am an ardent learner and problem solver and for me :
 [github]: https://github.com/
 [c++]: https://devdocs.io/cpp/
 [c]: https://devdocs.io/cpp/
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media
 [html]: https://devdocs.io/html/
 
-
-      
-## Coding is fun 🤩💝
-      
-      
-<img align="left" height="230" width="350" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-
-
-
-      
-### :handshake: Always happy to help!
-
-
-      
-### :hugs: Thank You!
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/itsmorris-worm)! :v:
